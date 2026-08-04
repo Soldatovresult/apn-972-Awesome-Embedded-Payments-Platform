@@ -22,12 +22,12 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ## 🔓 Open-Source Software
 
 ### Open-Source Ledgers & Financial Core
-- **[Formance Ledger](https://github.com/formancehq/ledger)** — Programmable open-source core ledger for fintech. Supports atomic multi-posting transactions, account-based modeling, and a domain-specific language (Numscript) for financial logic. Excellent foundation for wallets, marketplaces, and embedded payment systems.
-- **[Blnk Core](https://www.blnkfinance.com/)** — Immutable, developer-friendly open-source ledger designed for accuracy and multi-currency support. Useful for building balances, wallets, and money-movement applications.
-- **[Apache Fineract](https://fineract.apache.org/)** — Mature open-source core banking platform that provides accounts, portfolios, transactions, and can serve as a backend for digital financial services (often paired with a licensed partner for regulated activities).
+- **[Formance Ledger](https://github.com/formancehq/ledger)** [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) — Programmable open-source core ledger for fintech. Supports atomic multi-posting transactions, account-based modeling, and a domain-specific language (Numscript) for financial logic. Excellent foundation for wallets, marketplaces, and embedded payment systems.
+- **[Apache Fineract](https://fineract.apache.org/)** [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) — Mature open-source core banking platform that provides accounts, portfolios, transactions, and can serve as a backend for digital financial services (often paired with a licensed partner for regulated activities).
+- **[Blnk Core](https://www.blnkfinance.com/)** [![GitHub stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=social&color=white)](https://github.com/blnkfinance/blnk/stargazers) — Immutable, developer-friendly open-source ledger designed for accuracy and multi-currency support. Useful for building balances, wallets, and money-movement applications.
 
 ### Payments Infrastructure & Messaging
-- **[jPOS](https://jpos.org/)** — Long-standing open-source payments infrastructure focused on ISO-8583, ISO-20022, and high-integrity transaction processing. Used in gateways, switches, acquirers, and issuers.
+- **[jPOS](https://jpos.org/)** [![GitHub stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) — Long-standing open-source payments infrastructure focused on ISO-8583, ISO-20022, and high-integrity transaction processing. Used in gateways, switches, acquirers, and issuers.
 - Open-source payment orchestration and double-entry systems that teams combine with commercial processors for a hybrid embedded finance stack.
 - Community projects offering Stripe-inspired APIs or self-hosted payment primitives (ledgers + webhooks + basic payment intents).
 
