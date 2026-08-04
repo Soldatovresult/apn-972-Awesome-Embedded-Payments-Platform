@@ -1,6 +1,6 @@
 ![Banner](assets/banner.svg)
 
-# Awesome Embedded Payments Platforms
+# Awesome Embedded Payments Platforms - The Ultimate List
 
 **Embedded Payments Platforms** (also called Banking-as-a-Service / BaaS or embedded finance platforms) enable companies to integrate payments, accounts, cards, payouts, and related financial services directly into their products via APIs. Leading platforms include Stripe, Adyen, Rapyd, Unit, Moov, Finix, Checkout.com, Treasury Prime, Synctera, and Weavr.
 
