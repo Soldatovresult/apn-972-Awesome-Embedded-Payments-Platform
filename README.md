@@ -34,12 +34,15 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 - **[Blnk Core](https://www.blnkfinance.com/)** [![GitHub stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=social&color=white)](https://github.com/blnkfinance/blnk/stargazers) — Immutable, developer-friendly open-source ledger designed for accuracy and multi-currency support. Useful for building balances, wallets, and money-movement applications.
 
 ### 🌉 Payments Infrastructure & Messaging
+- **[Hyperswitch](https://hyperswitch.io/)** [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) — Open-source payments orchestrator that lets you connect with multiple payment processors and route transactions to optimize costs and acceptance rates.
+- **[Kill Bill](https://killbill.io/)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) — Open-source billing and payments platform.
 - **[jPOS](https://jpos.org/)** [![GitHub stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) — Long-standing open-source payments infrastructure focused on ISO-8583, ISO-20022, and high-integrity transaction processing. Used in gateways, switches, acquirers, and issuers.
 - Open-source payment orchestration and double-entry systems that teams combine with commercial processors for a hybrid embedded finance stack.
 - Community projects offering Stripe-inspired APIs or self-hosted payment primitives (ledgers + webhooks + basic payment intents).
 
 ### Related Open-Source Building Blocks
-- **Mojaloop** — Open-source framework originally aimed at inclusive, interoperable payments (more relevant for national or large-scale payment systems than typical SaaS embedded finance).
+- **[Lago](https://www.getlago.com/)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metered billing and pricing platform, often considered a Stripe Billing alternative.
+- **[Mojaloop](https://mojaloop.io/)** [![GitHub stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) — Open-source framework originally aimed at inclusive, interoperable payments (more relevant for national or large-scale payment systems than typical SaaS embedded finance).
 - Open-source identity, KYC orchestration, and consent tools that support onboarding flows in embedded finance products.
 - Self-hosted wallet and multi-currency balance engines built on the ledgers above.
 
