@@ -6,7 +6,7 @@
 
 Below is a **curated list** of notable platforms and their open-source equivalents. Fully regulated embedded banking (FDIC-insured accounts, card issuing, etc.) requires licensed banks or BaaS partners and cannot be purely open-source. Open-source strength lies in ledgers, payment orchestration primitives, and financial infrastructure that teams can use to build or complement embedded finance products.
 
-## 🏢 SaaS / Hosted Platforms
+## 🏢 SaaS / Hosted Platforms ☁️
 
 | Platform | Description | Pricing | Free Tier Limit | Company Size |
 |----------|-------------|---------|-----------------|--------------|
@@ -21,14 +21,14 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Finix](https://finix.com/)** | Banking-as-a-Service and embedded finance platform for accounts, cards, and money movement. | Pay-as-you-go or custom enterprise pricing for platforms. | No free tier | $200M Valuation |
 | **[Weavr](https://www.weavr.io/)** | Banking-as-a-Service and embedded finance platform for accounts, cards, and money movement. | Pay-as-you-go or custom pricing depending on scale. | No free tier | $100M Valuation |
 
-## 🔓 Open-Source Software
+## 🔓 Open-Source Software 🌍
 
-### Open-Source Ledgers & Financial Core
+### 📒 Open-Source Ledgers & Financial Core
 - **[Formance Ledger](https://github.com/formancehq/ledger)** [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) — Programmable open-source core ledger for fintech. Supports atomic multi-posting transactions, account-based modeling, and a domain-specific language (Numscript) for financial logic. Excellent foundation for wallets, marketplaces, and embedded payment systems.
 - **[Apache Fineract](https://fineract.apache.org/)** [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) — Mature open-source core banking platform that provides accounts, portfolios, transactions, and can serve as a backend for digital financial services (often paired with a licensed partner for regulated activities).
 - **[Blnk Core](https://www.blnkfinance.com/)** [![GitHub stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=social&color=white)](https://github.com/blnkfinance/blnk/stargazers) — Immutable, developer-friendly open-source ledger designed for accuracy and multi-currency support. Useful for building balances, wallets, and money-movement applications.
 
-### Payments Infrastructure & Messaging
+### 🌉 Payments Infrastructure & Messaging
 - **[jPOS](https://jpos.org/)** [![GitHub stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) — Long-standing open-source payments infrastructure focused on ISO-8583, ISO-20022, and high-integrity transaction processing. Used in gateways, switches, acquirers, and issuers.
 - Open-source payment orchestration and double-entry systems that teams combine with commercial processors for a hybrid embedded finance stack.
 - Community projects offering Stripe-inspired APIs or self-hosted payment primitives (ledgers + webhooks + basic payment intents).
