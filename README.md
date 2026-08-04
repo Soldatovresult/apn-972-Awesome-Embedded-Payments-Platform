@@ -6,9 +6,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Stripe](https://stripe.com/)** — Dominant payments and embedded finance platform (Payments, Connect, Treasury, Issuing, etc.).
-- **[Adyen](https://www.adyen.com/)**, **[Checkout.com](https://www.checkout.com/)**, **[Rapyd](https://www.rapyd.net/)** — Global payments platforms with strong acquiring, payouts, and platform capabilities.
-- **[Unit](https://www.unit.co/)**, **[Treasury Prime](https://treasuryprime.com/)**, **[Synctera](https://synctera.com/)**, **[Moov](https://moov.io/)**, **[Finix](https://finix.com/)**, **[Weavr](https://www.weavr.io/)** — Banking-as-a-Service and embedded finance platforms focused on accounts, cards, and money movement for software companies and fintechs.
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[Stripe](https://stripe.com/)** | Dominant payments and embedded finance platform (Payments, Connect, Treasury, Issuing, etc.). | Pay-as-you-go (e.g. 2.9% + 30¢ per successful card charge). | No free tier (pay per transaction) |
+| **[Adyen](https://www.adyen.com/)** | Global payments platform with strong acquiring, payouts, and platform capabilities. | Interchange++ pricing model. | No free tier (minimum invoice volume applies) |
+| **[Checkout.com](https://www.checkout.com/)** | Global payments platform with strong acquiring, payouts, and platform capabilities. | Interchange++ or custom blended pricing. | No free tier |
+| **[Rapyd](https://www.rapyd.net/)** | Global payments platform with strong acquiring, payouts, and platform capabilities. | Pay-as-you-go varying by payment method and region. | No free tier |
+| **[Unit](https://www.unit.co/)** | Banking-as-a-Service and embedded finance platform for accounts, cards, and money movement. | Custom enterprise pricing (implementation fee + monthly minimums). | No free tier |
+| **[Treasury Prime](https://treasuryprime.com/)** | Banking-as-a-Service and embedded finance platform for accounts, cards, and money movement. | Custom enterprise pricing (monthly SaaS fee + usage). | No free tier |
+| **[Synctera](https://synctera.com/)** | Banking-as-a-Service and embedded finance platform for accounts, cards, and money movement. | Custom enterprise pricing (implementation fee + monthly SaaS). | No free tier |
+| **[Moov](https://moov.io/)** | Banking-as-a-Service and embedded finance platform for accounts, cards, and money movement. | Pay-as-you-go. | No free tier (no monthly fees or minimums) |
+| **[Finix](https://finix.com/)** | Banking-as-a-Service and embedded finance platform for accounts, cards, and money movement. | Pay-as-you-go or custom enterprise pricing for platforms. | No free tier |
+| **[Weavr](https://www.weavr.io/)** | Banking-as-a-Service and embedded finance platform for accounts, cards, and money movement. | Pay-as-you-go or custom pricing depending on scale. | No free tier |
 
 ## 🔓 Open-Source Software
 
