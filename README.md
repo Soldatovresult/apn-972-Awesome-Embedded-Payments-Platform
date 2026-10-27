@@ -43,6 +43,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ### Related Open-Source Building Blocks
 - **[Lago](https://www.getlago.com/)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metered billing and pricing platform, often considered a Stripe Billing alternative.
 - **[Mojaloop](https://mojaloop.io/)** [![GitHub stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) — Open-source framework originally aimed at inclusive, interoperable payments (more relevant for national or large-scale payment systems than typical SaaS embedded finance).
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** — Local buyer-side x402 runtime for embedding payments in AI-agent workflows, with CLI/stdio MCP offer inspection, bounded preparation and status/receipts; Apple Silicon macOS and Node 24 only.
 - Open-source identity, KYC orchestration, and consent tools that support onboarding flows in embedded finance products.
 - Self-hosted wallet and multi-currency balance engines built on the ledgers above.
 
